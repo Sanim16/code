@@ -7,6 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          This is a sample dockerised react website/app
+        </p>
+        <p>
+        
+        </p>
+        <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
